@@ -1,8 +1,9 @@
 # sms-scammer
-this tool si not for any revenge purpose. please use it only for fun! use wisely!
+# author : Ninja Hydra 
+this tool is not for any revenge purpose. Please use it only for fun! Use wisely!
 
 **steps to install it in termux** :
-1. apt install python git toilet -y
+1. apt install python git -y
 2. git clone https://github.com/Sanif007/sms-scammer
 3. pip install requests
 4. cd sms-scammer

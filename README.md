@@ -13,7 +13,7 @@ steps to install it in termux
 
 ==> python sms.py
 
-
+![sms]()
 
 For video tutorial of this and many such tools subcribe my channel - https://youtube.com/HackersAcademyofIndia
 

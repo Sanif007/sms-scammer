@@ -1,19 +1,14 @@
 # sms-scammer
 this tool si not for any revenge purpose. please use it only for fun! use wisely!
 
-steps to install it in termux
+**steps to install it in termux** :
+1. apt install python git toilet -y
+2. git clone https://github.com/Sanif007/sms-scammer
+3. pip install requests
+4. cd sms-scammer
+5. python sms.py
 
-==> apt install python git toilet -y
-
-==>  git clone https://github.com/Sanif007/sms-scammer
-
-==> pip install requests
-
-==> cd sms-scammer
-
-==> python sms.py
-
-![sms]()
+![sms](https://github.com/Sanif007/sms-scammer/blob/master/README/Screenshot_20200227_130652.jpg)
 
 For video tutorial of this and many such tools subcribe my channel - https://youtube.com/HackersAcademyofIndia
 

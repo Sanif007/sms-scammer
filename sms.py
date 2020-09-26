@@ -34,8 +34,8 @@ def sms() :
    })
    print(resp.text)
    time = datetime.datetime.now()
-   save = open("sess.txt", "w")
-   save.write(f"\tip = {ip} : time = {time} : stats = {resp.text} : phone no.  = {phone_no}")
+   save = open("sess.txt", "a")
+   save.write(f"\nip = {ip} : time = {time} : stats = {resp.text} : phone no.  = {phone_no}")
 def status() :
   textID = input("Enter textID of sms : ") 
   os.system(f"curl https://textbelt.com/status/{textID}")

@@ -11,7 +11,5 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 
 ![sms](https://github.com/Sanif007/sms-scammer/blob/master/README/Screenshot_20200227_130652.jpg)
 
-For video tutorial of this and many such tools subcribe my channel - https://youtube.com/HackersAcademyofIndia
-
-FOLLOW on instagram - https://instagram.com/haoi_hackers_academy_of_india
+FOLLOW on instagram - https://instagram.com/sanif_kumar
 

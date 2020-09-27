@@ -9,7 +9,7 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 4. cd sms-scammer
 5. python sms.py
 
-![sms](https://github.com/Sanif007/sms-scammer/blob/master/README/Screenshot_20200227_130652.jpg)
+![sms]()
 
 FOLLOW on instagram - https://instagram.com/sanif_kumar
 

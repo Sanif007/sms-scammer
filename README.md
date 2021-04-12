@@ -1,4 +1,4 @@
-# sms-scammer
+# sms-scammer v. 4.0
 # author : Ninja Hydra 
 this tool is not for any revenge purpose. Please use it only for fun! Use wisely!
 
@@ -9,5 +9,5 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 4. cd sms-scammer
 5. python sms.py
 
-FOLLOW on instagram - https://instagram.com/sanif_kumar
-
+Follow on Instagram - https://instagram.com/sanif_kumar
+Follow on Twitter - https://twitter.com/NinjaHydra1

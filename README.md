@@ -10,4 +10,5 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 5. python sms.py
 
 Follow on Instagram - https://instagram.com/sanif_kumar
+
 Follow on Twitter - https://twitter.com/NinjaHydra1

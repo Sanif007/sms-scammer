@@ -1,5 +1,5 @@
-# sms-scammer v. 4.0
-# author : Ninja Hydra 
+# sms-scammer [v. 4.0](https://github.com/Sanif007/sms-scammer)
+# author : [Ninja Hydra ](https://github.com/Sanif007)
 this tool is not for any revenge purpose. Please use it only for fun! Use wisely!
 
 **steps to install it in termux** :
@@ -9,6 +9,6 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 4. cd sms-scammer
 5. python sms.py
 
-Follow on Instagram - https://instagram.com/sanif_kumar
+Follow on Instagram - [click here](https://instagram.com/sanif_kumar)
 
-Follow on Twitter - https://twitter.com/NinjaHydra1
+Follow on Twitter - [click here](https://twitter.com/NinjaHydra1)

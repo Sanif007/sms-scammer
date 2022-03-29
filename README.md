@@ -4,7 +4,7 @@ this tool is not for any revenge purpose. Please use it only for fun! Use wisely
 
 **unfortunately due to some error this might show some error in few countries recently!  Am trying to use some new ways till then please wait!**
 
-**steps to install it in termux** :
+**steps to install it in termux/lunix** :
 1. apt install python git -y
 2. git clone https://github.com/Sanif007/sms-scammer
 3. pip install requests

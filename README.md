@@ -1,4 +1,4 @@
-# sms-scammer [v. 4.0](https://github.com/Sanif007/sms-scammer)
+# sms-scammer [v. 5.0](https://github.com/Sanif007/sms-scammer)
 # Author : [Ninja Hydra ](https://github.com/Sanif007)
 this tool is not for any revenge purpose. Please use it only for fun! Use wisely!
 
@@ -19,3 +19,6 @@ Please do msg me on insta/twitter for more inquiry!
 
 # E.164 error :
 You can solve this error by purchasing api and inserting it in code manually - [click here ](https://textbelt.com/purchase/?generateKey=1)
+
+# Api adding :
+New feature is added to make adding your purchased api easily.
